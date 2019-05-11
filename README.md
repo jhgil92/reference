@@ -6,3 +6,6 @@ xwMOOC 딥러닝과 H2O
 
 Advanced SQL
 - https://www.periscopedata.com/category/advanced-sql
+
+금융권 빅데이터 구축사례
+http://newsjel.ly/archives/newsjelly-report/visualization-report/5867
