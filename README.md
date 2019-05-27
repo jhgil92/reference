@@ -3,6 +3,8 @@
 
 xwMOOC 딥러닝과 H2O
 - https://statkclee.github.io/deep-learning/
+- http://statkclee.github.io/parallel-r/
+- http://statkclee.github.io/ml/
 
 Advanced SQL
 - https://www.periscopedata.com/category/advanced-sql
